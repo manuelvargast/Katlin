@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Katlin</string>
+    <string name="sig_jugador">Turno: %1$s</string>
+    <string name="ganador">GANADOR: %1$s</string>
+</resources>
